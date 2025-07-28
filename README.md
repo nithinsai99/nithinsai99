@@ -1,4 +1,7 @@
 
+###
+
+<h1 align="center">Hello, I'm Nithin Sai 👋🏼</h1>
 
 ###
 
@@ -17,9 +20,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nithinsai99.nithinsai99&"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
