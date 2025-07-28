@@ -83,14 +83,5 @@
 
 <img src="https://raw.githubusercontent.com/nithinsai99/nithinsai99/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h1 align="center">Profile Views</h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nithinsai99/count.svg?"  />
-</div>
 
 ###
