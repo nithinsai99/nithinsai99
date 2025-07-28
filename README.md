@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://img.freepik.com/premium-vector/hacker-vector-silhouette-illustration_1283271-4221.jpg?semt=ais_items_boosted&w=740"  />
-</div>
+
 
 ###
 
