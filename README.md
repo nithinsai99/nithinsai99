@@ -24,8 +24,10 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<h3 align="left"> [AI Polished Content - Below] </h3>
+
 ###
+
+<h3 align="left"> [AI Polished Content] </h3>
 
 <p align="left">I'm Nithin Sai Mikkilineni, a Master's student in Computer Science at Texas Tech University and a passionate software developer.<br><br>🔭 I’m currently working as a Student Assistant at TTUHSC IT Solutions, where I troubleshoot technical issues and build analytics dashboards. I previously interned at Microsoft, contributing to production-level software projects.<br><br>📚 I'm currently learning advanced algorithms, system design, and competitive programming to deepen my technical skills.<br><br>⚡ In my free time, I solve coding challenges, build AI-driven web applications, and explore topics in cybersecurity.</p>
 
