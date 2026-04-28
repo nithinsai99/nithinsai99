@@ -29,7 +29,13 @@
 
 <h3 align="left"> [AI Polished Content] </h3>
 
-<p align="left">I'm Nithin Sai Mikkilineni, a Master's student in Computer Science at Texas Tech University and a passionate software developer.<br><br>🔭 I’m currently working as a Student Assistant at TTUHSC IT Solutions, where I troubleshoot technical issues and build analytics dashboards. I previously interned at Microsoft, contributing to production-level software projects.<br><br>📚 I'm currently learning advanced algorithms, system design, and competitive programming to deepen my technical skills.<br><br>⚡ In my free time, I solve coding challenges, build AI-driven web applications, and explore topics in cybersecurity.</p>
+<p align="left">
+  I'm Nithin Sai Mikkilineni, a Master's student in Computer and Information Science at Texas Tech University and a backend-focused software engineer.<br><br>
+  🔭 I’m currently working as a Graduate Assistant and Software Developer in the Department of Renewable Energy at Texas Tech, developing "Forecast AI," a predictive analytics system using Random Forest models for solar plant energy usage.<br><br>
+  💼 Previously, I was a Software Engineer Intern at Microsoft, where I engineered low-latency gRPC-based microservices that reduced inter-service latency by 40% and built features to seamlessly trigger NDPA components via ndpa-ctl.<br><br>
+  📚 I'm currently focused on High-Performance Computing (HPC), distributed systems architecture (.NET, ASP.NET Core, RabbitMQ), and advanced algorithmic problem-solving.<br><br>
+  ⚡ In my free time, I practice DSA in C++, optimize supercomputing benchmarks (recently placing 2nd globally in the Winter Classic Student Cluster Competition!), and build AI-driven web applications.
+</p>
 
 ###
 
