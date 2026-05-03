@@ -30,11 +30,11 @@
 <h3 align="left"> [AI Polished Content] </h3>
 
 <p align="left">
-  I'm Nithin Sai Mikkilineni, a Master's student in Computer and Information Science at Texas Tech University and a backend-focused software engineer.<br><br>
-  🔭 I’m currently working as a Graduate Assistant and Software Developer in the Department of Renewable Energy at Texas Tech, developing "Forecast AI," a predictive analytics system using Random Forest models for solar plant energy usage.<br><br>
-  💼 Previously, I was a Software Engineer Intern at Microsoft, where I engineered low-latency gRPC-based microservices that reduced inter-service latency by 40% and built features to seamlessly trigger NDPA components via ndpa-ctl.<br><br>
-  📚 I'm currently focused on High-Performance Computing (HPC), distributed systems architecture (.NET, ASP.NET Core, RabbitMQ), and advanced algorithmic problem-solving.<br><br>
-  ⚡ In my free time, I practice DSA in C++, optimize supercomputing benchmarks (recently placing 2nd globally in the Winter Classic Student Cluster Competition!), and build AI-driven web applications.
+  I'm Nithin Sai Mikkilineni, a Master's student in Computer and Information Science at Texas Tech University and a software engineer with expertise in building extensible, low-latency distributed systems.<br><br>
+  I’m currently working as a Software Engineer (Graduate Assistant) at Texas Tech University, developing "Forecast AI," a predictive analytics system on Microsoft Azure using Python and the Random Forest algorithm to forecast solar-plant energy usage.<br><br>
+  Previously, I was a Software Engineer Intern at Microsoft, where I engineered gRPC-based microservices in C++ that reduced inter-service latency by 40% and built an automated diagnostic feature to trigger real-time network analysis via CLI.<br><br>
+  I'm currently focused on scalable multi-cloud architectures using AWS and Azure, distributed systems, and containerized backend services using C#/.NET, Docker, and Kubernetes.<br><br>
+  I also build event-driven microservices using RabbitMQ and optimize large-scale HPC applications, recently securing 2nd place in the Winter Classic Student Cluster Competition using C++, OpenMP, and OpenACC.
 </p>
 
 ###
