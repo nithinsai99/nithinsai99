@@ -27,7 +27,6 @@
 
 ###
 
-<h3 align="left"> [AI Polished Content] </h3>
 
 <p align="left">
   I'm Nithin Sai Mikkilineni, a Master's student in Computer and Information Science at Texas Tech University and a software engineer with expertise in building extensible, low-latency distributed systems.<br><br>
